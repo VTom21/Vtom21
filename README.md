@@ -4,7 +4,8 @@
 - **Hungarian**
 - **knob gobbler /j** 
 - **USA stan**
-- **dolt & dogmatic** 
+- **dolt & dogmatic**
+- **undeterred mf**
 - **abjectly ominous** 
 - **Tarheel at heart** 💙
 
