@@ -24,7 +24,7 @@
 
 ---
 
-### ✨ Fun Facts ✨
+### ✨ Fun Facts About Me ✨
 
 - 🌍 **Based in the USA**, with pride.
 - 🤖 **Coding enthusiast**, always learning!
