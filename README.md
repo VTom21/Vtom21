@@ -8,6 +8,7 @@
   - dolt & dogmatic
   - abjectly ominous
   - Tarheel at heart
+
 ──────────────────────────────────────────────────────
 
 "Esse quam videri"  
