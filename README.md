@@ -1,6 +1,6 @@
 # ✨ **Personal Details** ✨
 
-- **Tamás Visegrádi**
+- **Tamás Visegrádi** 
 - **Hungarian**
 - **knob gobbler /j** 
 - **USA stan**
