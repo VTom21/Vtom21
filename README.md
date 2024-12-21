@@ -27,7 +27,8 @@
 - 📖 **Zestful & Avid English learner** 
 - 💻 **Likes Web designing & Development** 
 - 🤖 **Relish AIs** 
-- 📚 **Occasionally reads** 
+- 📚 **Occasionally reads**
+- ✍️ ** Does Poetry**
 
 ---
 
