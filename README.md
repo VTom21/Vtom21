@@ -27,7 +27,6 @@
 
 ---
 
-📞 **Bang my line over yondah, youse x**
 
 > **"Esse quam videri"**  
 > _- To be, rather than to seem_  
