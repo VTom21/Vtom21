@@ -14,7 +14,7 @@
 
 ### 💻 GitHub Stats:
 
-![Vtom21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=dracula)
+![Vtom21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=city_lights)
 
 ---
 
