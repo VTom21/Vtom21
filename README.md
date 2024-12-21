@@ -14,7 +14,6 @@
 > _- To be, rather than to seem_  
 > _— Cicero_
 
-📞 **Bang my line over yondah, youse x**
 
 ---
 
@@ -41,5 +40,5 @@
 
 ---
 
-🚀 **Looking forward to collaborating with you!** 🚀
+📞 **Bang my line over yondah, youse x**
 
