@@ -41,12 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Xiren-Alpha-Build-&theme=github_dark" height="100" />
 </p>
 
-
-
-
-
-
 > **"Esse quam videri"**  
 > _- To be, rather than to seem_  
 > _— Cicero_
+
 
