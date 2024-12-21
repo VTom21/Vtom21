@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Questionnare&theme=github_dark" height="100" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=To-Do-List&theme=github_dark" height="100" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Xiren-website&theme=github_dark" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Xiren-Alpha-Build&theme=github_dark" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Xiren-Alpha-Build-&theme=github_dark" height="100" />
 </p>
 
 
