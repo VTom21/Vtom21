@@ -20,9 +20,9 @@
 
 ### ✨ Fun Facts About Me ✨
 
-- 📖 **Really loves English** 
+- 📖 **Zestful & Avid English learner** 
 - 💻 **Likes Web designing & Development** 
-- 🤖 **Loves AIs** 
+- 🤖 **Relish AIs** 
 - 📚 **Occasionally reads** 
 
 ---
