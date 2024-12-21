@@ -15,7 +15,7 @@
 ### 💻 GitHub Stats:
 
 ![Vtom21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
