@@ -1,7 +1,7 @@
 # ✨ **Personal Details** ✨
 
 
--Hungarian
+- **Hungarian**
 - **knob gobbler /j** 
 - **USA stan**
 - **dolt & dogmatic** 
