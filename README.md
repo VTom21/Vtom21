@@ -1,17 +1,25 @@
-## Hi there 👋
+  _______                              
+ |__   __|                             
+    | | ___  _ __ ___  _ __ ___  _   _ 
+    | |/ _ \| '_ ` _ \| '_ ` _ \| | | |
+    | | (_) | | | | | | | | | | | |_| |
+    |_|\___/|_| |_| |_|_| |_| |_|\__, |
+                                  __/ |
+                                 |___/ 
 
-<!--
-**VTom21/Vtom21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                 ✨ **Personal Details** ✨
 
-Here are some ideas to get you started:
+──────────────────────────────────────────────────────
+  - knob gobbler /j
+  - USA stan
+  - dolt & dogmatic
+  - abjectly ominous
+  - Tarheel at heart
+──────────────────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+         "Esse quam videri"  
+     - To be, rather than to seem
+
+      📞 **Bang my line over yondah, youse x**
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=radical)
