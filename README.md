@@ -35,7 +35,7 @@
 ### 💻 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" height="100" />
 </p>
 
 
