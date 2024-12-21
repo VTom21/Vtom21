@@ -26,7 +26,7 @@
 - 💻 **Likes Web designing & Development** 
 - 🤖 **Relish AIs** 
 - 📚 **Occasionally reads**
-- ✍️ **Does Poetry @ Writing**
+- ✍️ **Does Poetry & Writing**
 
 ---
 
