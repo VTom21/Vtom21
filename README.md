@@ -14,8 +14,11 @@
 
 ### 💻 GitHub Stats:
 
-![Vtom21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=github_dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&theme=github_dark" height="200" />
+</p>
+
 
 
 ---
