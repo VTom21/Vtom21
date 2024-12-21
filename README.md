@@ -20,10 +20,10 @@
 
 ### ✨ Fun Facts About Me ✨
 
-- 🌍 **Big American English lover**, with pride.
-- 🤖 **Coding enthusiast**, always learning!
-- 🎮 **Gamer at heart**, leveling up in life and games.
-- 📚 **Lover of books**—always reading something new.
+- 📖 **Really loves English** 
+- 💻 **Likes Web designing & Development** 
+- 🤖 **Loves AIs** 
+- 📚 **Occasionally reads** 
 
 ---
 
