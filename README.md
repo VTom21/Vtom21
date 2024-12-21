@@ -1,6 +1,6 @@
 
 
-                 ✨ Personal Details ✨
+                ✨ Personal Details ✨
 
 ──────────────────────────────────────────────────────
   - knob gobbler /j
