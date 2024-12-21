@@ -25,20 +25,13 @@
 
 ### ✨ Fun Facts About Me ✨
 
-- 🌍 **Based in the USA**, with pride.
+- 🌍 **Big American English lover**, with pride.
 - 🤖 **Coding enthusiast**, always learning!
 - 🎮 **Gamer at heart**, leveling up in life and games.
 - 📚 **Lover of books**—always reading something new.
 
 ---
 
-### 🌟 Let's Connect! 🌟
-
-- **Twitter**: [@Vtom21](https://twitter.com/Vtom21)
-- **LinkedIn**: [Vtom21](https://www.linkedin.com/in/Vtom21/)
-- **Website**: [Vtom21.dev](https://Vtom21.dev)
-
----
 
 📞 **Bang my line over yondah, youse x**
 
