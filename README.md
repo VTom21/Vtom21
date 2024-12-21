@@ -1,6 +1,6 @@
-✨ **Personal Details** ✨
+# ✨ **Personal Details** ✨
 
----
+
 -Hungarian
 - **knob gobbler /j** 
 - **USA stan**
