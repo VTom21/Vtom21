@@ -10,11 +10,6 @@
 
 ---
 
-> **"Esse quam videri"**  
-> _- To be, rather than to seem_  
-> _— Cicero_
-
-
 ---
 
 ### 💻 GitHub Stats:
@@ -32,6 +27,9 @@
 
 ---
 
+> **"Esse quam videri"**  
+> _- To be, rather than to seem_  
+> _— Cicero_
 
 📞 **Bang my line over yondah, youse x**
 
