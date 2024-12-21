@@ -36,7 +36,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vtom21&repo=Questionnare&theme=github_dark" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=To-Do-List&theme=github_dark" height="100" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark" height="100" />
 </p>
 
