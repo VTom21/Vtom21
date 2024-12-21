@@ -1,6 +1,6 @@
 
 
-                ✨ Personal Details ✨
+✨ Personal Details ✨
 
 ──────────────────────────────────────────────────────
   - knob gobbler /j
@@ -10,9 +10,9 @@
   - Tarheel at heart
 ──────────────────────────────────────────────────────
 
-         "Esse quam videri"  
-     - To be, rather than to seem
+"Esse quam videri"  
+- To be, rather than to seem
 
-      📞 **Bang my line over yondah, youse x**
+📞 **Bang my line over yondah, youse x**
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=radical)
