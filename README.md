@@ -34,7 +34,7 @@
 
 ### 💻 GitHub Stats:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=github_dark")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
