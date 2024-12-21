@@ -14,7 +14,7 @@
 
 ### 💻 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=github_dark" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&theme=github_dark" height="200" />
 </p>
