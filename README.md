@@ -1,4 +1,4 @@
-# ✨ **Personal Details** ✨
+✨ **Personal Details** ✨
 
 ---
 -Hungarian
