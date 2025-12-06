@@ -13,10 +13,7 @@
 
 ### 💻 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vtom21&show_icons=true&theme=github_dark" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtom21&layout=donut&theme=github_dark" height="200" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vtom21&theme=dracula&hide_border=true&border_radius=20)](https://git.io/streak-stats) <br>
 
 ---
 
