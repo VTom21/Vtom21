@@ -14,7 +14,7 @@
 
 ### 💻 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Vtom21&theme=dracula&hide_border=true&border_radius=20" alt="GitHub Streak">
   </a>
