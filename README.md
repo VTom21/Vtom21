@@ -11,9 +11,21 @@
 
 ---
 
+
 ### 💻 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vtom21&theme=dracula&hide_border=true&border_radius=20)](https://git.io/streak-stats)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Vtom21?cardType=level-alternate&theme=dracula&preferLogin=false&Border=0000001A)](https://git.io/awesome-stats-card)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Vtom21&theme=dracula&hide_border=true&border_radius=20" alt="GitHub Streak">
+  </a>
+  <br>
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Vtom21?cardType=level-alternate&theme=dracula&preferLogin=false&Border=0000001A" alt="My Awesome Stats">
+  </a>
+</p>
+
+  
+
 ---
 
 ### ✨ Fun Facts About Me ✨
