@@ -17,11 +17,7 @@
 <p align="left">
     <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Vtom21?cardType=level-alternate&theme=dracula&preferLogin=false&Border=0000001A" alt="My Awesome Stats">
-  </a><br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vtom21&theme=dracula&hide_border=true&border_radius=20" alt="GitHub Streak">
   </a>
-  
 </p>
 
   
