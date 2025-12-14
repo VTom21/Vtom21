@@ -64,10 +64,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=alpinejs" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=p5js" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=svelte" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=unity" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;
+ 
 </p>
 
 
