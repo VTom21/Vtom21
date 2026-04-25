@@ -47,24 +47,32 @@
 ### ⚙️ Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="35" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="35" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="angular" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;
- 
+  <img src="https://skillicons.dev/icons?i=html&size=46" alt="html"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=46" alt="css"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=46" alt="javascript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=46" alt="typescript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=sass&size=46" alt="sass"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss&size=46" alt="tailwind"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=46" alt="bootstrap"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=46" alt="react"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=angular&size=46" alt="angular"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue&size=46" alt="vue"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=svelte&size=46" alt="svelte"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=alpinejs&size=46" alt="alpinejs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=46" alt="laravel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=46" alt="php"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=46" alt="python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust&size=46" alt="rust"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs&size=46" alt="csharp"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=46" alt="java"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=kotlin&size=46" alt="kotlin"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=46" alt="mysql"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=android&size=46" alt="android"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=gradle&size=46" alt="gradle"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=46" alt="firebase"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=godot&size=46" alt="godot"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=46" alt="figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=46" alt="git"/>
 </p>
 
 
