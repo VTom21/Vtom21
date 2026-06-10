@@ -44,7 +44,7 @@
 
 ---
 
-### ⚙️ Languages and Tools:
+### ⚙️ Languages and tools I have attained ample knowledge in:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html&size=46" alt="html"/>&nbsp;&nbsp;&nbsp;
@@ -73,6 +73,11 @@
   <img src="https://skillicons.dev/icons?i=godot&size=46" alt="godot"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=46" alt="figma"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=46" alt="git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=46" alt="git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=astro&size=46" alt="git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nuxt&size=46" alt="git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=46" alt="git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bulma&size=46" alt="git"/>
 </p>
 
 
